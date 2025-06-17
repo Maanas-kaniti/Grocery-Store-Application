@@ -43,4 +43,4 @@ def insert_product():
 
 if __name__ == "__main__":
     print("Starting flask server for grocery store management system")
-    app.run(port= 5000)
+    app.run(port= 2001)
