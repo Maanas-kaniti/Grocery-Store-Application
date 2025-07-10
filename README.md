@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Grocery Store Management System (GSMS)
 
 A simple web-based system for managing grocery store products and orders.
@@ -143,3 +144,7 @@ Grocery-Store/
 ---
 
 Enjoy managing your grocery store!
+=======
+# Grocery-Store
+A Grocery Store application using python full stack
+>>>>>>> 6c51447b3151ec8e30dd04cbc5502c70fe3db86f
